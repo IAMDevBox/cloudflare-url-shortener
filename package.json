@@ -1,0 +1,24 @@
+{
+  "name": "cloudflare-url-shortener",
+  "version": "1.0.0",
+  "description": "Self-hosted URL shortener with Cloudflare Workers and KV storage",
+  "main": "worker.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "node test_worker.js",
+    "test:live": "BASE_URL=https://yourdomain.com node test_worker.js"
+  },
+  "keywords": [
+    "cloudflare-workers",
+    "url-shortener",
+    "kv-storage",
+    "serverless",
+    "utm-tracking",
+    "analytics"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
