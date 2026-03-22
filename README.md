@@ -3,7 +3,7 @@
 A production-ready, self-hosted URL shortener built with **Cloudflare Workers** and **KV storage**.
 Zero cost, global edge performance, and full CRUD admin API with click analytics.
 
-> 📖 **Full tutorial**: [Building a Self-Hosted URL Shortener with Cloudflare Workers](https://www.iamdevbox.com/posts/building-self-hosted-url-shortener-cloudflare-workers/)
+> 📖 **Full tutorial**: [Building a Self-Hosted URL Shortener with Cloudflare Workers](https://www.iamdevbox.com/posts/building-self-hosted-url-shortener-cloudflare-workers/?utm_source=github&utm_medium=companion-repo&utm_campaign=cloudflare-url-shortener)
 
 ## Features
 
@@ -229,10 +229,10 @@ A typical blog gets ~500 short URL clicks/day — well within free tier.
 
 ## Related Resources
 
-- [Building a Self-Hosted URL Shortener with Cloudflare Workers](https://www.iamdevbox.com/posts/building-self-hosted-url-shortener-cloudflare-workers/) — full tutorial on IAMDevBox
-- [Cloudflare Workers KV Tutorial](https://www.iamdevbox.com/posts/building-self-hosted-url-shortener-cloudflare-workers/#step-2-configuration) — KV storage configuration deep-dive
-- [OAuth 2.0 Developer Guide](https://www.iamdevbox.com/posts/oauth-20-complete-developer-guide-authorization-authentication/) — if you're adding OAuth authentication to your Workers
-- [IAM Tools Comparison](https://www.iamdevbox.com/posts/iam-tools-comparison-complete-guide-to-identity-platforms/) — comparing identity and access management platforms
+- [Building a Self-Hosted URL Shortener with Cloudflare Workers](https://www.iamdevbox.com/posts/building-self-hosted-url-shortener-cloudflare-workers/?utm_source=github&utm_medium=companion-repo&utm_campaign=cloudflare-url-shortener) — full tutorial on IAMDevBox
+- [Cloudflare Workers KV Tutorial](https://www.iamdevbox.com/posts/building-self-hosted-url-shortener-cloudflare-workers/?utm_source=github&utm_medium=companion-repo&utm_campaign=cloudflare-url-shortener#step-2-configuration) — KV storage configuration deep-dive
+- [OAuth 2.0 Developer Guide](https://www.iamdevbox.com/posts/oauth-20-complete-developer-guide-authorization-authentication/?utm_source=github&utm_medium=companion-repo&utm_campaign=cloudflare-url-shortener) — if you're adding OAuth authentication to your Workers
+- [IAM Tools Comparison](https://www.iamdevbox.com/posts/iam-tools-comparison-complete-guide-to-identity-platforms/?utm_source=github&utm_medium=companion-repo&utm_campaign=cloudflare-url-shortener) — comparing identity and access management platforms
 - [Cloudflare Workers Docs](https://developers.cloudflare.com/workers/) — official Cloudflare documentation
 
 ## License
